@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/CPP/SnakeSDL3/build/cmake_install.cmake",
-		"D:/CPP/SnakeSDL3/build/SnakeSDL3/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
