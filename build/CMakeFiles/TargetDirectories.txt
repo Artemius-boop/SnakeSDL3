@@ -1,0 +1,3 @@
+D:/CPP/SnakeSDL3/build/CMakeFiles/ALL_BUILD.dir
+D:/CPP/SnakeSDL3/build/CMakeFiles/ZERO_CHECK.dir
+D:/CPP/SnakeSDL3/build/SnakeSDL3/CMakeFiles/SnakeSDL3.dir
